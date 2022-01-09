@@ -3,8 +3,13 @@ h1 {
     background-color: blue;
     font-weight: bold;
     border: solid black;
+    margin-right: 500px;
+    text-align: center;
 }
 
 img {
+    height: 100px;
+    width: 100px;
     border: solid blue;
+    border-radius: 10px;
 }
