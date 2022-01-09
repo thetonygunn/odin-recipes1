@@ -2,4 +2,5 @@ h1 {
     color: white;
     background-color: blue;
     font-weight: bold;
+    border-radius: 10px;
 }
