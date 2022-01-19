@@ -4,6 +4,8 @@ h1 {
     font-weight: bold;
     border: solid black;
     margin-right: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
     text-align: center;
 }
 
@@ -12,4 +14,9 @@ img {
     width: 100px;
     border: solid blue;
     border-radius: 10px;
+}
+
+
+body {
+    background-color: lightslategray;
 }
